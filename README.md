@@ -34,7 +34,7 @@ This is a project for the course SC1015 (Introduction to Data Science and Artifi
 
 ## References 
 https://www.themoviedb.org
-
-
+https://developers.themoviedb.org/3/getting-started
+https://slidesgo.com/theme/series-streaming-platform#search-movie&position-9&results-45
 
 
