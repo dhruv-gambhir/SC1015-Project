@@ -30,7 +30,6 @@ This is a project for the course SC1015 (Introduction to Data Science and Artifi
 
 
 
-## What Did We Learn?
 
 
 ## References 
