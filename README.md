@@ -15,6 +15,7 @@ This is a project for the course SC1015 (Introduction to Data Science and Artifi
 
 ## Models Used
 1. Natural Language Processing
+2. Multiple Linear Regression
 
 ## Conclusions
 
