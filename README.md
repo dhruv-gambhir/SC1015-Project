@@ -14,7 +14,7 @@ This is a project for the course SC1015 (Introduction to Data Science and Artifi
 > Filtering, prioritizing, and effectively delivering important information on streaming platforms, where the quantity of options is overwhelming, is necessary to alleviate the problem of information overload, which has become a potential concern for many users.
 
 ## Models Used
-
+1. Natural Language Processing
 
 ## Conclusions
 
