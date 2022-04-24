@@ -8,7 +8,7 @@ Sethi Aryan- Recommendation Model <br>
 
 ## About The Project <br>
 
-This is a project for the course SC-1015 (Introduction to Data Science and Artificial Intelligence).
+This is a project for the course SC1015 (Introduction to Data Science and Artificial Intelligence).
 
 ## Problem Definition <br>
 > Filtering, prioritizing, and effectively delivering important information on streaming platforms, where the quantity of options is overwhelming, is necessary to alleviate the problem of information overload, which has become a potential concern for many users.
