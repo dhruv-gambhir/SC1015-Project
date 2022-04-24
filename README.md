@@ -1,5 +1,5 @@
 # SC1015-Project
-<img width="911" alt="Screenshot 2022-04-23 at 6 07 46 PM" src="https://user-images.githubusercontent.com/75164918/164890098-d1947605-9bc8-4f67-a3cc-86af9483892b.png">
+<img width="905" alt="Screenshot 2022-04-24 at 7 23 49 PM" src="https://user-images.githubusercontent.com/75164918/164974072-1e4f5202-0d60-4f87-98f2-97b924b52cfe.png">
 
 ## Contributors <br>
 - Gupta Atharv- Exploratory Data Analysis 
@@ -33,8 +33,10 @@ This is a project for the course SC1015 (Introduction to Data Science and Artifi
 
 
 ## References 
-https://www.themoviedb.org
-https://developers.themoviedb.org/3/getting-started
-https://slidesgo.com/theme/series-streaming-platform#search-movie&position-9&results-45
+* https://www.themoviedb.org
+
+* https://developers.themoviedb.org/3/getting-started
+
+* https://slidesgo.com/theme/series-streaming-platform#search-movie&position-9&results-45
 
 
