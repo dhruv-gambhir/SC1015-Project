@@ -5,7 +5,6 @@ Gupta Atharv- Exploratory Data Analysis <br>
 Gambhir Dhruv- Data Cleaning <br>
 Sethi Aryan- Reccomendation Model <br>
 # Problem Definition <br>
-> Recommending films on the basis of the films the user has watched previously. <br>
-
+> Filtering, prioritizing, and effectively delivering important information on streaming platforms, where the quantity of options is overwhelming, is necessary to alleviate the problem of information overload, which has become a potential concern for many users.
 
 
